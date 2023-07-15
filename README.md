@@ -1,2 +1,2 @@
 # Demo
-![Alt Text](`./yellow-page/frontend/public/giphy.mp4`)
+![Alt Text](`/yellow-page/frontend/public/giphy.mp4`)
